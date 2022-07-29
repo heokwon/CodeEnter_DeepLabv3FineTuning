@@ -6,7 +6,7 @@ Train.ipynb 파일을 코랩에서 열고 실행
 
 - 목차에서 Make folder에 원하는 class번호로 수정 후 순서대로 실행
 
-binary : main.py /br
+binary : main.py /n
 binary augmentation : sep_main.py
 
 Segmentation IoU score 구현됨
