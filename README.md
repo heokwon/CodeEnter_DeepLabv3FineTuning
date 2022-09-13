@@ -1,5 +1,8 @@
 ## CodeEnter_DeepLabv3FineTuning
 
+### Team
+* 윤소미, 장주찬, 전규원, 한정현, 허 
+
 ### How to use
 
 Train.ipynb 파일을 코랩에서 열고 실행
